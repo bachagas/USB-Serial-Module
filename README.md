@@ -20,7 +20,7 @@ Current compatibility list is here :
 
 Note: You need the OTG (USB On-the-Go) cable that connects between Android and other USB hardware.
 
-## Requrement
+## Requirement
 
 Android min-sdk: Android 2.3.3 (API Level 10)
 Titanium 2.1.0.GA
