@@ -38,7 +38,7 @@ When you create your new Titanium project, you must setup Android SDK configurat
 
 #### Add &lt;module&gt; tag
 
-To use USB Serial Module, add the "jp.isisredirect.usbserial" module to your project editing the "tiapp.xml" file using the Overview tab in the Titanium Studio IDE, or directly adding the flowing &lt;module&gt; tag in &lt;modules&gt; session.
+To use USB Serial Module, add the "jp.isisredirect.usbserial" module to your project editing the "tiapp.xml" file using the Overview tab in the Titanium Studio IDE, or directly adding the following &lt;module&gt; tag in &lt;modules&gt; session.
 
      <modules>
         <module platform="android">jp.isisredirect.usbserial</module>
