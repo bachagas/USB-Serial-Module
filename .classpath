@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Android/android-sdk/platforms/android-14/android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruno/AppData/Roaming/Titanium/mobilesdk/win32/3.4.0.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruno/AppData/Roaming/Titanium/mobilesdk/win32/3.4.0.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruno/AppData/Roaming/Titanium/mobilesdk/win32/3.4.0.GA/android/kroll-v8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bruno/AppData/Roaming/Titanium/mobilesdk/win32/3.4.0.GA/android/titanium.jar"/>
+	<classpathentry kind="lib" path="lib/usbseriallibrary.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -19,7 +19,8 @@ Note : General issues of Titanium mobile for Android setup are [here](https://wi
 ## Build the Titanium Module
 
 1. Setup the build.properties file according to your environment;
-2. Build and package it as an Android Module for the Titanium SDK so it can be available for all projects in your workspace.
+2. Setup the Java libraries path: for some reason, the Titanium Studio (up to version 3.4.0.201409261227 - for Windows) cannot locate these libs which are necessary for building Android modules. To do that right click your project and go to &gt; Properties &gt; Java Build Path. Edit the android.jar to point to your local Android SDK installation path and the kroll* and titanium.jar to your local Titanium SDK path. (Note: you may also have to manually set your JRE System Library);
+3. Build and package it as an Android Module for the Titanium SDK so it can be available for all projects in your workspace.
 
 ## Create your Titanium project
 
